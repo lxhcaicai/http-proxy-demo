@@ -1,0 +1,7 @@
+server:
+  port: 8082
+
+proxy:
+  solr:
+    servlet_url: /lxhcaicai/*
+    target_url: https://www.baidu.com/
